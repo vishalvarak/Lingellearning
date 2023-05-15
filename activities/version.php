@@ -24,3 +24,6 @@
 $plugin->component = 'block_activities';  // Recommended since 2.0.2 (MDL-26035). Required since 3.0 (MDL-48494).
 $plugin->version = 2023042801;  // YYYYMMDDHH (year, month, day, 24-hr time).
 $plugin->requires = 2010112400; // YYYYMMDDHH (This is the release version for Moodle 2.0).
+
+
+https://www.youtube.com/watch?v=Rp9KET5WpNA&list=PLP2u0HSq_qDH5JMOOi3pxCITSNBTCbh-D&index=3
